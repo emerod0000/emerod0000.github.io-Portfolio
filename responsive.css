@@ -18,6 +18,7 @@ img.portfolio-1,
   .portfolio-2,
   .portfolio-3{
     height: 150px;
+	  width:70%
 	}
 	
 footer li{
@@ -57,11 +58,6 @@ img.main-picture{
 	 width:100%
   }
 	
-img.portfolio-1,
-.portfolio-2,
-.portfolio-3{
-	width:100%;
-}
 
 }
 
