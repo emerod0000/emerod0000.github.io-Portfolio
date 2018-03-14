@@ -22,6 +22,7 @@ img.portfolio-1,
 footer li {
   display:block;
   margin:0 1em;
+	float:left;
 }
 }
 @media screen and (max-width:549px) {
