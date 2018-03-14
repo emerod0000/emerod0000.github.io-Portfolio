@@ -16,7 +16,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="js/showhide.js"></script>
+    <script src="/js/showhide.js"></script>
     <!-- End Bootstrap CSS-->
   </head>
 
@@ -107,18 +107,9 @@
  <p class="show-more">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa maiores dolore earum ducimus molestiae, aut. <span>Quisquam consequuntur, maiores et, doloremque atque provident similique consequatur totam voluptas vitae veniam, molestiae laborum.</span></p>
     <button class="read-more">Read More</button>
   </article>
-
-    </div>
-
+</div>
     <div class ="clear"></div>
      <!--End Portfolio articles-->
-
-
-
-
-
-
-
 
    <!--Footer-->
     <footer>
@@ -132,19 +123,6 @@
    <!--End Footer-->
 
 </div><!--End Container-->
-
-   <script>
-   var buttons = document.querySelectorAll('.read-more');
-
-for (var i = 0; i < buttons.length; i++) {
-  buttons[i].addEventListener('click', function(event) {
-    var span = event.target.previousElementSibling.querySelector('span');
-    span.classList.add('fade-in');
-  });
-}
-   </script>
- 
-
 
   </body>
 </html>
