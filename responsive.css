@@ -19,6 +19,8 @@ img.portfolio-1,
   .portfolio-3{
     height: 150px;
 	}
+footer{
+dispaly:inline;
 }
 
 @media screen and (max-width:549px) {
