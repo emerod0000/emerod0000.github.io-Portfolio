@@ -54,7 +54,14 @@ img.main-picture{
 
  img.main-picture{
   height: 600px;
+	 width:100%
   }
+	
+img.portfolio-1,
+.portfolio-2,
+.portfolio-3{
+	width:100%;
+}
 
 }
 
