@@ -19,10 +19,11 @@ img.portfolio-1,
   .portfolio-3{
     height: 150px;
 	}
-footer a {
-dispaly:inline;
+footer li {
+  display:block;
+  margin:0 1em;
 }
-
+}
 @media screen and (max-width:549px) {
 
 
