@@ -19,10 +19,9 @@ img.portfolio-1,
   .portfolio-3{
     height: 150px;
 	}
-footer li {
-  display:block;
-  margin:0 1em;
-	float:left;
+	
+footer li{
+display:block;
 }
 }
 @media screen and (max-width:549px) {
