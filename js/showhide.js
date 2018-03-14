@@ -1,8 +1,8 @@
     
             $(document).ready(function(){
                 var readMoreHtml = $(".read-more").html();
-                var lessText = readMoreHtml.substr(0, 100);
-                if(readMoreHtml.length > 100){
+                var lessText = readMoreHtml.substr(0, 10);
+                if(readMoreHtml.length > 10){
                     $(".read-more").html(lessText).append("<a href='' class='read-more-link'> Read More</a>");
                 }
                 else{
