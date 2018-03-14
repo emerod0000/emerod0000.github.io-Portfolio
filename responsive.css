@@ -16,9 +16,10 @@ img.main-picture{
 
 img.portfolio-1,
   .portfolio-2,
-  .portfolio-3
-    height: 150px
-
+  .portfolio-3{
+    height: 150px;
+	}
+}
 
 @media screen and (max-width:549px) {
 
