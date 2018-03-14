@@ -1,0 +1,174 @@
+
+
+
+
+body, html {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+}
+
+body {
+  font-family:Roboto;
+  font-size:12px;
+  color:#424242;
+}
+
+ /*
+ *
+ * header
+ * 
+ */
+
+.header {
+  display:block;
+  margin-bottom:20px;
+  border-bottom:4px solid #7d97ad;
+  width:100%;
+  height:150px;
+  color:#7d97ad;
+}
+
+.logo {
+  width:20%;
+  float:left;
+ }
+
+h1.heading-1 {
+  display: inline-block;
+  -webkit-margin-before:0.67em;
+  -webkit-margin-after:0.67em;
+  -webkit-margin-start:0px;
+  -webkit-margin-end:0px;
+  font-weight:bold;
+  float:right;  
+}
+
+h1.featured-work {
+  font-weight:bold;
+  float:left;
+  color: #7d97ad;
+}
+
+h3.portfolio-heading {
+ color:#7d97ad;
+}
+
+h3.sub-heading {
+ float:right;
+}
+ 
+ 
+ /*
+ *
+ * Main Picture
+ * 
+ */
+ 
+.main-picture {
+  width:100%;
+  height:600px;
+  margin-bottom:10px;
+ -webkit-box-shadow:15px 18px 50px -19px rgba(2,179,228,0.46);
+ -moz-box-shadow:15px 18px 50px -19px rgba(2,179,228,0.46);
+  box-shadow:15px 18px 50px -19px rgba(2,179,228,0.46);
+  border:1px solid #;
+ -webkit-border-radius: 20px;
+ -moz-border-radius: 20px;
+ border-radius: 20px; 
+ }
+ 
+ /*
+ *
+ * Portfolios
+ * 
+ */
+ 
+img.portfolio-1,.portfolio-2,.portfolio-3{
+	
+ margin-left: 10px;
+ max-width:100%;
+ margin-bottom: 10px;
+ height:300px;
+ -webkit-box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
+ -moz-box-shadow:15px 18px 50px -19px rgba(2,179,228,0.46);
+ box-shadow:15px 18px 50px -19px rgba(2,179,228,0.46);
+ border:1px solid #;
+-webkit-border-radius:20px;
+-moz-border-radius:20px;
+ border-radius:20px
+}
+
+p {
+    display:inline-block;
+}
+
+/*
+ *
+ * Main
+ *
+ */
+
+.container {
+  box-shadow:0 2px 5px #02b3e4;;
+  max-width:100%;
+  margin-left:auto;
+  margin-right:auto;
+   color:#2d3c49;
+}
+
+/*
+ *
+ * Content
+ *
+ */
+
+.row {
+  max-width:100%;
+  margin-top:20px;
+  margin-bottom:60px; 
+  margin-right:10px;
+  margin-left:10px;
+  text-align:center;
+}
+
+.clear {
+  clear:both;  
+}
+
+/*
+ *
+ * Footer
+ *
+ */
+
+footer {
+  border-top:1px solid #E0E0E0;
+  padding:1em;
+  width:100%;
+}
+
+footer li {
+  display:inline-block;
+  margin:0 1em;
+}
+
+footer a {
+  text-decoration:none;
+  color:#333;
+  padding:1.5em;
+}
+
+.show-more span {
+  display: inline-block;
+  height: 0;
+  overflow: hidden;
+  transition: opacity 2s;
+  opacity: 0;
+}
+.show-more span.fade-in {
+  height: auto;
+  opacity: 1;
+}
+
