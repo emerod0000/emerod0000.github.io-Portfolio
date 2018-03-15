@@ -56,6 +56,8 @@ h1.featured-work {
 
 h3.portfolio-heading {
  color:#7d97ad;
+ font-size: 20px;
+ font-weight: bolder;
 }
 
 h3.sub-heading {
@@ -165,19 +167,19 @@ footer a {
 }
 
 
-.rgthdng:first-child{
+.show-more:first-child{
    margin-top: 5%;
 }
-.rgthdng.eat{
+.show-more.eat{
   background: $color-spcl-odd;
 }
-.rgthdng.stay{
+.show-more.stay{
   background: $stay-color;
 }
-.rgthdng.play{
+.show-more.play{
   background: $play-color;
 }
-.rgthdng{
+.show-more{
   width: $base-width;
   margin: 0 auto;
   margin-bottom: 0px;
@@ -189,7 +191,7 @@ footer a {
 }
 .toggler{
   cursor: pointer;
-  font-size: $base-size + 10;
+  font-size: $base-size + 20;
 }
   span{
     display: inline-block;
