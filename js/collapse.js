@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#demo-1").on("hide.bs.collapse1", function(){
+  $("#demo-1").on("hide.bs.collapse", function(){
     $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span>Open to read');
   });
   $("#demo-1").on("show.bs.collapse1", function(){
@@ -17,6 +17,6 @@ $(document).ready(function(){
     $(".btn").html('<span class="glyphicon glyphicon-collapse-down"></span> Open to read');
   });
   $("#demo-3").on("show.bs.collapse", function(){
-    $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Open to read');
+    $(".btn").html('<span class="glyphicon glyphicon-collapse-up"></span> Close');
   });
 });
