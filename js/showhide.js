@@ -1,3 +1,12 @@
-    
-            <div>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br>asdasdasdasd<br></div>
-<a id="more" href="#">Read more </a>
+    $('#more').click(function(e) {
+    e.stopPropagation();
+    $('div').css({
+        'height': 'auto'
+    })
+});
+
+$(document).click(function() {
+    $('div').css({
+        'height': '50px'
+    })
+})
