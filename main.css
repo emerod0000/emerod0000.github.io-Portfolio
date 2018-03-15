@@ -164,7 +164,10 @@ footer a {
   padding:1.5em;
 }
 
-.show-read-more .more-text{
-        display: none;
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
 }
 
