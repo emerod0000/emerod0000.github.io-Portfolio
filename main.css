@@ -164,34 +164,7 @@ footer a {
   padding:1.5em;
 }
 
-.show-more span {
-  display: inline-block;
-  height: 0;
-  overflow: hidden;
-  transition: opacity 2s;
-  opacity: 0;
-}
-.show-more span.fade-in {
-  height: auto;
-  opacity: 1;
-}
-
-.read-more{
-	border:1px solid #000;
-	padding:15px;
-	margin-bottom:20px;
-}
-.read-more-link,
-.show-less-link{
-	text-decoration:none;
-	font-weight:bolder;
-	color:green;
-}
-.content{
-background:#fff;
-margin:0 auto;
-width:600px;
-padding:10px;
-min-height:300px;	
+.show-read-more .more-text{
+        display: none;
 }
 
