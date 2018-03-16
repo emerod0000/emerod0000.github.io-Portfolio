@@ -3,11 +3,11 @@
 
 .header{
   height: 200px;
- }
+}
 	
 img.main-picture{
   height: 300px;
-  }
+}
 	
 img.portfolio-1,
 .portfolio-2,
@@ -20,7 +20,7 @@ h1.featured-work{
   font-size: 35px;	
 }
 
-h1.heading-1 {
+h1.heading-1{
   font-size: 35px;	
 }
 	
@@ -45,7 +45,7 @@ h3.portfolio-heading{
 }
 	
 footer li{
-display: inline;
+  display: inline;
 }			
 }
 
