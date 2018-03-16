@@ -5,11 +5,11 @@
   height: 200px;
 }
 	
-img.main-picture{
+main-picture{
   height: 300px;
 }
 	
-img.portfolio-1,
+.portfolio-1,
 .portfolio-2,
 .portfolio-3{
   height: 200px;
