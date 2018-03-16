@@ -31,15 +31,23 @@ display: block;
 img.main-picture{
   height: 300px;
   }
-	img.portfolio-1,
+img.portfolio-1,
 .portfolio-2,
 .portfolio-3{
   height: 200px;
   width:90%
 }
+h1.featured-work{
+  font-size: 35px;	
+}
+h1.heading-1 {
+  font-size: 35px;	
+}
+.toggler{
+  background-color:#fff	
+}
 	
 }
-
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/
 	
 img.main-picture{
