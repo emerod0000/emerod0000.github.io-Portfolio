@@ -200,14 +200,14 @@ footer a {
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  border-radius: 20px
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
 }
   span{
     display: inline-block;
     margin-right: 10px;
-    width: 90px;
+    width: 120px;
   }
 
 
