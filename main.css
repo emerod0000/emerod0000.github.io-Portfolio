@@ -170,10 +170,6 @@ footer a {
  * 
  */
 
-.show-more: first-child{
-  margin-top: 5%;
-}
-
 .show-more{
   width: 20px;
   margin: 0 auto;
