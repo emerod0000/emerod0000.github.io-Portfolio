@@ -170,7 +170,7 @@ footer a {
  * 
  */
 
-.show-more: first-child{
+.show-more.first-child{
   margin-top: 5%;
 }
 
