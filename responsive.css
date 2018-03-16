@@ -1,5 +1,5 @@
 
-@media screen and (min-width:300px)  and (max-width:767px) {  /*nexus 5x and /*Smaller android devices*/
+@media screen and (min-width:300px)  and (max-width:575px) {  /*nexus 5x and /*Smaller android devices*/
 
 .header{
   height: 200px;
@@ -38,10 +38,14 @@ col-sm-4{
 }	
 }
 @media screen and (min-width:576px) {
-.col-sm-4{
-  flex :100%;
-  max-width: 100%;
+  h3.portfolio-heading{
+  font-size: 16px;
+  float: left;
 }
+.showpanel{
+  font-size: 14px;
+  width:70%;
+	
 }
 
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
