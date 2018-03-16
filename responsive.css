@@ -13,7 +13,7 @@ img.portfolio-1,
 .portfolio-2,
 .portfolio-3{
   height: 200px;
-  width:90%
+  width: 90%
 }
 	
 h1.featured-work{
@@ -41,7 +41,7 @@ display: block;
 	
 .showpanel{
   font-size: 14px;
-  width:70%;	
+  width: 70%;	
 }
 
 col-sm-4{
