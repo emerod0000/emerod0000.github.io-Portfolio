@@ -34,58 +34,7 @@ display: block;
 }
 
 @media screen and (min-width:576px)  and (max-width:767px) {  /*Other devices*/
-.header{
-  height: 200px;
-}
-	
-img.main-picture{
-  height: 300px;
-}
 
-.row{
-  display:block;
-}
-	
-img.portfolio-1,
-.portfolio-2,
-.portfolio-3{
-  height: 200px;
-  width:90%
-}
-	
-.toggler{
-  background-color:#fff	
-}
-		
-h3.portfolio-heading{
-  font-size:16px;
-  float:left;
-}
-	
-.showmore{
-  font-size:12px;
-  float:left;
-}
-	
-.toggler{
-  cursor: pointer;
-  font-size: 16px;
-  background-color: #02b3e4;
-  -webkit-border-radius: 25px;
-  -moz-border-radius: 25px;
-  border-radius: 25px;	
-}
-	
-  
-span{
-  display: inline-block;
-  margin-right: 10px;
-  width: 120px;
-  }
-	
-footer li{
-  display: inline;
-}			
 }
 
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
