@@ -1,5 +1,5 @@
 
-@media screen and (min-width:300px)  and (max-width:575px) {  /*nexus 5x and /*Smaller android devices*/
+@media screen and (min-width:300px)  and (max-width:767px) {  /*nexus 5x and /*Smaller android devices*/
 
 .header{
   height: 200px;
@@ -31,10 +31,6 @@ h1.heading-1{
 footer li{
 display: block;
 }		
-}
-
-@media screen and (min-width:576px)  and (max-width:767px) {  /*Other devices*/
-
 }
 
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
