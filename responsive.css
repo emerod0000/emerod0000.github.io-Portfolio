@@ -2,63 +2,55 @@
 @media screen and (max-width:450px) {
 
 .h1.heading-1 {
-  font-size:16px;
+  font-size: 16px;
 }
 
 .header{
-  height:250px;
-  text-align:right;
+  height: 250px;
+  text-align: right;
 }
 
 img.main-picture{
-  height: 300px
+  height: 300px;
 }
 
 img.portfolio-1,
-  .portfolio-2,
-  .portfolio-3{
-    height: 150px;
-	  width:70%
-	}
+.portfolio-2,
+.portfolio-3{
+  height: 150px;
+  width:70%
+}
 	
 footer li{
-display:block;
+display: block;
 }
 }
-@media screen and (max-width:549px) {
 
-
-}
-
-@media screen and (max-width:400px) {
-
-}
 @media screen and (min-width:451px) and (max-width:800px) {
 	
 img.main-picture{
   height: 400px;
   }
-
 }
+
 @media screen and (min-width: 950px) {
 .container, 
 .header__inner, 
 .content {
-  width:950px;
-  margin-left:auto;
-  margin-right:auto;
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .header{
-  height:150px;
+  height: 150px;
  }
 
  img.main-picture{
   height: 600px;
-	 width:100%
+  width: 100%
   }
 	
-
 }
 
 
