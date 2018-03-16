@@ -32,6 +32,12 @@ footer li{
 display: block;
 }		
 }
+@media screen and (min-width:576px)  and (max-width:767px){
+.col-sm-4{
+  flex :0;
+  max-width: 100%;
+}
+}
 
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
 img.main-picture{
