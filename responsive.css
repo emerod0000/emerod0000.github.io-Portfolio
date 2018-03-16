@@ -8,28 +8,32 @@
 img.main-picture{
   height: 300px;
   }
+	
 img.portfolio-1,
 .portfolio-2,
 .portfolio-3{
   height: 200px;
   width:90%
 }
+	
 h1.featured-work{
   font-size: 35px;	
 }
+
 h1.heading-1 {
   font-size: 35px;	
 }
+	
 .toggler{
   background-color:#fff	
 }
+	
 footer li{
 display: block;
 }		
 }
 
-@media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/
-	
+@media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
 img.main-picture{
   height: 400px;
   }
@@ -47,16 +51,15 @@ img.portfolio-1,
   background-color: #02b3e4;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
-  border-radius: 25px;
-	
+  border-radius: 25px;	
 }
+	
   span{
     display: inline-block;
     margin-right: 10px;
     width: 120px;
   }
 }
-
 @media screen and (min-width: 1024px) {/*desktop*/
 .container, 
 .header__inner, 
@@ -64,8 +67,7 @@ img.portfolio-1,
   width: 950px;
   margin-left: auto;
   margin-right: auto;
-}
-		
+}		
 }
 
 
