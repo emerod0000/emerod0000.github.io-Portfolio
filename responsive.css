@@ -78,6 +78,10 @@ img.main-picture{
   height: 600px;
   width: 100%
   }
+footer li{
+  display: inline;
+}
+	
 	
 }
 
