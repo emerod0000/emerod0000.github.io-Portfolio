@@ -38,12 +38,17 @@ h3.portfolio-heading{
   font-size:16px;
   float:left;
 }
- .showmore{
+	
+.showmore{
   font-size:12px;
   float:left;
-	
-	
 }
+	
+footer li{
+display: inline;
+}			
+}
+
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
 img.main-picture{
   height: 400px;
