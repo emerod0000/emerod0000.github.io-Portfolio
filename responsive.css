@@ -1,5 +1,5 @@
 
-@media screen and (min-width:300px)  {/*Smaller android devices*/
+@media screen and (min-width:300px)  and (max-width:767px) {  /*nexus 5x and /*Smaller android devices*/
 
 .header{
   height: 200px;
@@ -25,35 +25,9 @@ h1.heading-1 {
 }
 footer li{
 display: block;
-}
-		
+}		
 }
 
-@media screen and (min-width:412px) and (max-width:732px) {  /*nexus 5x*/
-	
-img.main-picture{
-  height: 300px;
-  }
-img.portfolio-1,
-.portfolio-2,
-.portfolio-3{
-  height: 200px;
-  width:90%
-}
-h1.featured-work{
-  font-size: 35px;	
-}
-h1.heading-1 {
-  font-size: 35px;	
-}
-.toggler{
-  background-color:#fff	
-}
-footer li{
-display: block;
-}
-		
-}
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/
 	
 img.main-picture{
@@ -84,20 +58,7 @@ img.main-picture{
   margin-left: auto;
   margin-right: auto;
 }
-
-.header{
-  height: 150px;
- }
-
- img.main-picture{
-  height: 600px;
-  width: 100%
-  }
-footer li{
-  display: inline;
-}
-	
-	
+		
 }
 
 
