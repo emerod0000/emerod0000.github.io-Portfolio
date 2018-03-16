@@ -32,10 +32,6 @@ footer li{
 display: block;
 }
 
-col-sm-4{
-  flex :100%;
-  max-width: 100%;
-}	
 }
 @media screen and (min-width:576px) {
   h3.portfolio-heading{
