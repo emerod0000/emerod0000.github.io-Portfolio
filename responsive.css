@@ -29,7 +29,7 @@ display: block;
 @media screen and (min-width:412px) and (max-width:732px) {  /*nexus 5x*/
 	
 img.main-picture{
-  height: 400px;
+  height: 300px;
   }
 	img.portfolio-1,
 .portfolio-2,
