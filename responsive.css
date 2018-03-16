@@ -34,6 +34,25 @@ display: block;
 }
 
 @media screen and (min-width:576px)  and (max-width:767px) {  /*Other devices*/
+.header{
+  height: 200px;
+}
+	
+img.main-picture{
+  height: 300px;
+}
+	
+img.portfolio-1,
+.portfolio-2,
+.portfolio-3{
+  height: 200px;
+  width:90%
+}
+	
+.toggler{
+  background-color:#fff	
+}
+		
 h3.portfolio-heading{
   font-size:16px;
   float:left;
