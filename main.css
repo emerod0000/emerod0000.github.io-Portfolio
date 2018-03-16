@@ -173,14 +173,18 @@ footer a {
 .show-more.first-child{
   margin-top: 5%;
 }
+
 .rgthdng.eat{
   background: red;
 }
+
 .rgthdng.stay{
   background: red;
 }
+
 .rgthdng.play{
   background: red;
+}
 
 .show-more{
   width: 250px;
