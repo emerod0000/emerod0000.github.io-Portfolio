@@ -191,7 +191,7 @@ footer a {
 }
   span{
     display: inline-block;
-    margin-right: $base-size;
+    margin-right: 10px;
   }
 
 
