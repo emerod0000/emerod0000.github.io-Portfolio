@@ -30,7 +30,12 @@ h1.heading-1{
 	
 footer li{
 display: block;
-}		
+}
+
+col-sm-4{
+  flex :100%;
+  max-width: 100%;
+}	
 }
 @media screen and (min-width:576px) {
 .col-sm-4{
