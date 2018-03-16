@@ -1,29 +1,28 @@
 
-@media screen and (max-width:411px) {/*Smaller android devices*/
-
-.h1.heading-1 {
-  font-size: 16px;
-}
-
-.header{
-  height: 250px;
-  text-align: right;
-}
+@media screen and (min-width:300px) and (max-width:411px {/*Smaller android devices*/
 
 img.main-picture{
   height: 300px;
-}
-
+  }
 img.portfolio-1,
 .portfolio-2,
 .portfolio-3{
-  height: 150px;
-  width:70%
+  height: 200px;
+  width:90%
 }
-	
+h1.featured-work{
+  font-size: 35px;	
+}
+h1.heading-1 {
+  font-size: 35px;	
+}
+.toggler{
+  background-color:#fff	
+}
 footer li{
 display: block;
 }
+		
 }
 
 @media screen and (min-width:412px) and (max-width:732px) {  /*nexus 5x*/
