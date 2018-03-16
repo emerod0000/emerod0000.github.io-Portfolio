@@ -1,5 +1,5 @@
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:411px) {/*Smaller android devices*/
 
 .h1.heading-1 {
   font-size: 16px;
@@ -26,14 +26,28 @@ display: block;
 }
 }
 
-@media screen and (min-width:451px) and (max-width:800px) {
+@media screen and (min-width:412px) and (max-width:732px) {  /*nexus 5x*/
+	
+img.main-picture{
+  height: 400px;
+  }
+	img.portfolio-1,
+.portfolio-2,
+.portfolio-3{
+  height: 200px;
+  width:100%
+}
+	
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/
 	
 img.main-picture{
   height: 400px;
   }
 }
 
-@media screen and (min-width: 950px) {
+@media screen and (min-width: 1024px) {/*desktop*/
 .container, 
 .header__inner, 
 .content {
