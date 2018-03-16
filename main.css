@@ -174,18 +174,6 @@ footer a {
   margin-top: 5%;
 }
 
-.rgthdng.eat{
-  background: red;
-}
-
-.rgthdng.stay{
-  background: red;
-}
-
-.rgthdng.play{
-  background: red;
-}
-
 .show-more{
   width: 250px;
   margin: 0 auto;
@@ -196,6 +184,7 @@ footer a {
 .showpanel{
   display: none;
 }
+
 .toggler{
   cursor: pointer;
   font-size: 16px;
@@ -204,6 +193,7 @@ footer a {
   -moz-border-radius: 25px;
   border-radius: 25px;
 }
+
   span{
     display: inline-block;
     margin-right: 10px;
