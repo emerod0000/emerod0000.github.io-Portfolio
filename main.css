@@ -60,7 +60,7 @@ h1.heading-1 {
  -webkit-box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
  -moz-box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
   box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
-  border: 1px solid #;
+  border: 1px solid #fff;
  -webkit-border-radius: 20px;
  -moz-border-radius: 20px;
  border-radius: 20px; 
@@ -82,7 +82,7 @@ img.portfolio-1,
   -webkit-box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
   -moz-box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
   box-shadow: 15px 18px 50px -19px rgba(2,179,228,0.46);
-  border: 1px solid #;
+  border: 1px solid #fff;
  -webkit-border-radius: 20px;
  -moz-border-radius: 20px;
   border-radius: 20px
