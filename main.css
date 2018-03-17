@@ -183,6 +183,7 @@ footer a {
  
 .showpanel{
   display: none;
+  text-align: justify;
 }
 
 .toggler{
