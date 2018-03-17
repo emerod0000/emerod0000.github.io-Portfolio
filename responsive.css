@@ -83,9 +83,9 @@ img.portfolio-1,
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
-  -webkit-border-radius: 25px;
-  -moz-border-radius: 25px;
-  border-radius: 25px;	
+  -webkit-border-radius: 25px;/*rounded corners*/
+  -moz-border-radius: 25px;/*rounded corners*/
+  border-radius: 25px;/*rounded corners*/
 }
 	
   span{
@@ -119,9 +119,9 @@ h3.portfolio-heading{
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
-  -webkit-border-radius: 25px;
-  -moz-border-radius: 25px;
-  border-radius: 25px;
+  -webkit-border-radius: 25px;/*rounded corners*/
+  -moz-border-radius: 25px;/*rounded corners*/
+  border-radius: 25px;/*rounded corners*/
 }
 
 .showpanel{
