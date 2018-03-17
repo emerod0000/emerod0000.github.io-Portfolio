@@ -108,14 +108,30 @@ footer li{
   margin-left: auto;
   margin-right: auto;
 }
+
+.main-picture{
+  height: 600px;
+}
+	
+h3.portfolio-heading{
+  font-size: 20px;
+}
+	
 .toggler{
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
-  border-radius: 25px;	
+  border-radius: 25px;
+  float: center;
 }
+
+.showpanel{
+  font-size: 16px;
+  width: 100%;	
+}
+	
 footer li{
   display: inline;
 }
