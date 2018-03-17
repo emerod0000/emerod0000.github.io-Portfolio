@@ -13,7 +13,7 @@ img.portfolio-1,
 .portfolio-2,
 .portfolio-3{
   height: 200px;
-  width: 90%
+  width: 90%;
 }
 	
 h1.featured-work{
@@ -25,13 +25,12 @@ h1.heading-1{
 }
 	
 .toggler{
-  background-color:#fff	
+  background-color:#fff;	
 }
 	
 footer li{
 display: block;
 }
-
 }
 @media screen and (min-width:576px) {
   h3.portfolio-heading{
@@ -60,25 +59,24 @@ img.portfolio-1,
 }
 		
 .toggler{
-  background-color:#fff;
+  background-color: #fff;
   float: left;
 }
 	
 footer li{
 display: block;
-}
-	
+}	
 }
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
 img.main-picture{
   height: 400px;
-  }
+}
 
 img.portfolio-1,
 .portfolio-2,
 .portfolio-3{
   height: 200px;
-  width:90%
+  width:90%;
 }
 	
 .toggler{
@@ -95,10 +93,10 @@ img.portfolio-1,
     margin-right: 10px;
     width: 120px;
   }
+	
 footer li{
   display: inline;
-}
-	
+}	
 }
 @media screen and (min-width: 1024px) {/*desktop*/
 .container, 
@@ -124,7 +122,6 @@ h3.portfolio-heading{
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   border-radius: 25px;
-  float: center;
 }
 
 .showpanel{
