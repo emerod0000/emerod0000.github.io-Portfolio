@@ -96,7 +96,7 @@ img.portfolio-1,
     width: 120px;
   }
 footer li{
-  display: block;
+  display: inline;
 }
 	
 }
