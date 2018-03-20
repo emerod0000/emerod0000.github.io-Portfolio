@@ -1,85 +1,84 @@
 
 @media screen and (min-width:300px)  and (max-width:575px) {  /*nexus 5x and /*Smaller android devices*/
-
-.header{
+.header {
   height: 200px;
 }
 	
-.main-picture{
+.main-picture {
   height: 300px;
 }
 	
 img.portfolio-1,
 .portfolio-2,
-.portfolio-3{
+.portfolio-3 {
   height: 200px;
   width: 90%;
 }
 	
-h1.featured-work{
+h1.featured-work {
   font-size: 35px;	
 }
 
-h1.heading-1{
+h1.heading-1 {
   font-size: 35px;	
 }
 	
-.toggler{
+.toggler {
   background-color:#fff;	
 }
 	
-footer li{
+footer li {
 display: block;
 }
 }
 @media screen and (min-width:576px) {
-  h3.portfolio-heading{
+  h3.portfolio-heading {
   font-size: 16px;
   float: left;
 }
 	
-.showpanel{
+.showpanel {
   font-size: 14px;
   width: 70%;	
 }
 
-.header{
+.header 
   height: 200px;
 }
 	
-.main-picture{
+.main-picture {
   height: 300px;
 }
 	
 img.portfolio-1,
 .portfolio-2,
-.portfolio-3{
+.portfolio-3 {
   height: 200px;
   width: 90%
 }
 		
-.toggler{
+.toggler {
   background-color: #fff;
   float: left;
 }
 	
-footer li{
+footer li {
 display: block;
 }	
 }
 @media screen and (min-width:768px) and (max-width:1024px) { /*ipad*/	
-img.main-picture{
+img.main-picture {
   height: 400px;
 }
 
 img.portfolio-1,
 .portfolio-2,
-.portfolio-3{
+.portfolio-3 {
   height: 200px;
   width:90%;
 }
 	
-.toggler{
+.toggler {
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
@@ -88,17 +87,17 @@ img.portfolio-1,
   border-radius: 25px;/*rounded corners*/
 }
 	
-  span{
+  span {
     display: inline-block;
     margin-right: 10px;
     width: 120px;
   }
 	
-footer li{
+footer li {
   display: inline;
 }	
 }
-@media screen and (min-width: 1024px) {/*desktop*/
+@media screen and (min-width: 1024px) {  /*desktop*/
 .container, 
 .header__inner, 
 .content {
@@ -107,15 +106,15 @@ footer li{
   margin-right: auto;
 }
 
-.main-picture{
+.main-picture {
   height: 600px;
 }
 	
-h3.portfolio-heading{
+h3.portfolio-heading {
   font-size: 20px;
 }
 	
-.toggler{
+.toggler {
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
@@ -124,12 +123,12 @@ h3.portfolio-heading{
   border-radius: 25px;/*rounded corners*/
 }
 
-.showpanel{
+.showpanel {
   font-size: 16px;
   width: 100%;	
 }
 	
-footer li{
+footer li {
   display: inline;
 }
 }
