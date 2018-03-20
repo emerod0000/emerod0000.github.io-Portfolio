@@ -1,10 +1,10 @@
 
-.main-body{
+.main-body {
   background-color: #7d97ad;/*grey background*/
 }
 
 body, 
-html{
+html {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -73,7 +73,7 @@ h1.heading-1 {
  
 img.portfolio-1,
 .portfolio-2,
-.portfolio-3{	
+.portfolio-3 {	
   margin-left: 10px;
   max-width: 100%;
   margin-bottom: 10px;
@@ -174,19 +174,19 @@ footer a {
   margin-top: 5%;
 }
 
-.show-more{
+.show-more {
   width: 250px;
   margin: 0 auto;
   margin-bottom: 0px;
   padding: 20px 20px;
 }
  
-.showpanel{
+.showpanel {
   display: none;
   text-align: justify;
 }
 
-.toggler{
+.toggler {
   cursor: pointer;
   font-size: 16px;
   background-color: #02b3e4;
@@ -195,7 +195,7 @@ footer a {
   border-radius: 25px;
 }
 
-  span{
+  span {
     display: inline-block;
     margin-right: 10px;
     width: 120px;
