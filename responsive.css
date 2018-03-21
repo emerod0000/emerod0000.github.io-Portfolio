@@ -62,7 +62,7 @@ img.portfolio-1,
   float: left;
 }
 	
-footer li i {
+footer li {
 display: block;
 }	
 }
@@ -93,7 +93,7 @@ img.portfolio-1,
     width: 120px;
   }
 	
-footer li i {
+footer li {
   display: inline-block;
 }	
 }
@@ -128,7 +128,7 @@ h3.portfolio-heading {
   width: 100%;	
 }
 	
-footer li i {
+footer li {
   display: inline-block;
 }
 }
